@@ -25,4 +25,5 @@ body {
   /* CHANGE ME */
   padding: 32px;
   margin-left: 330px;
+  /*Note for next time that margin-left: auto; would achieve the same result much quicker without the guess work*/
 }
